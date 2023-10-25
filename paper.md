@@ -1,5 +1,7 @@
 #Author
 Justin Leung 2.0
+#Co-Author
+John
 #Title
 git training paper 2.0
 
