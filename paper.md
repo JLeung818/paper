@@ -1,7 +1,7 @@
 #Author
-Justin Leung
+Justin Leung 2.0
 #Title
-git training paper
+git training paper 2.0
 
 #Introduction:
 hiiiiiiiiiiiiiiiiii
