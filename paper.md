@@ -1,17 +1,19 @@
-Author: Justin Leung
-Title: git training paper
+#Author
+Justin Leung
+#Title
+git training paper
 
-Introduction:
+#Introduction:
 hiiiiiiiiiiiiiiiiii
 
 
-Cite instrument paper in introduction
+#Cite instrument paper in introduction
 
 
-Cite previous studies in introduction
+#Cite previous studies in introduction
 
 
-Give context for research
+#Give context for research
 
 
 
