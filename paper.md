@@ -1,7 +1,10 @@
 #Author
-Justin Leung
+Justin Leung 2.0
+#Co-Author
+John
 #Title
 aircraft git training paper
+
 
 #Introduction:
 hiiiiiiiiiiiiiiiiii
@@ -15,5 +18,6 @@ hiiiiiiiiiiiiiiiiii
 
 #Give context for research
 
-
+#Simulations
+hi
 
